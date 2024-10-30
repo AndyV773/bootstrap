@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&display=swap');
+
 #nav-bar {
     background-color: aqua !important;
 }
@@ -6,4 +8,8 @@
     background-color: #333;
     box-shadow: 0 4px 10px #b803f0;
     color: #fff;
+}
+
+#signup-button {
+    font-family: "Great Vibes", cursive;
 }
